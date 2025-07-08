@@ -1,0 +1,239 @@
+C:\Users\Asus\source\repos\Mission\Mission.api\obj\Debug\net8.0\Mission.api.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\Mission\Mission.api\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Asus\source\repos\Mission\Mission.api\obj\Debug\net8.0\Mission.api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\Mission\Mission.api\obj\Debug\net8.0\Mission.api.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Mission\Mission.api\obj\Debug\net8.0\Mission.api.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Mission\Mission.api\obj\Debug\net8.0\Mission.api.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Mission\Mission.api\obj\Debug\net8.0\Mission.api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Asus\source\repos\Mission\Mission.api\obj\Debug\net8.0\Mission.api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asus\source\repos\Mission\Mission.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Asus\source\repos\Mission\Mission.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\Asus\source\repos\Mission\Mission.Api\bin\Debug\net8.0\Mission.api.staticwebassets.endpoints.json
+C:\Users\Asus\source\repos\Mission\Mission.Api\bin\Debug\net8.0\Mission.api.exe
+C:\Users\Asus\source\repos\Mission\Mission.Api\bin\Debug\net8.0\Mission.api.deps.json
+C:\Users\Asus\source\repos\Mission\Mission.Api\bin\Debug\net8.0\Mission.api.runtimeconfig.json
+C:\Users\Asus\source\repos\Mission\Mission.Api\bin\Debug\net8.0\Mission.api.dll
+C:\Users\Asus\source\repos\Mission\Mission.Api\bin\Debug\net8.0\Mission.api.pdb
+C:\Users\Asus\source\repos\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Asus\source\repos\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Asus\source\repos\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Asus\source\repos\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Asus\source\repos\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Asus\source\repos\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Asus\source\repos\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Asus\source\repos\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Asus\source\repos\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Asus\source\repos\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Asus\source\repos\Mission\Mission.Api\bin\Debug\net8.0\Npgsql.dll
+C:\Users\Asus\source\repos\Mission\Mission.Api\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Asus\source\repos\Mission\Mission.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Asus\source\repos\Mission\Mission.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Asus\source\repos\Mission\Mission.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Asus\source\repos\Mission\Mission.Api\bin\Debug\net8.0\Mission.Entities.dll
+C:\Users\Asus\source\repos\Mission\Mission.Api\bin\Debug\net8.0\Mission.Entities.pdb
+C:\Users\Asus\source\repos\Mission\Mission.Api\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Asus\source\repos\Mission\Mission.Api\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Asus\source\repos\Mission\Mission.Api\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Asus\source\repos\Mission\Mission.Api\obj\Debug\net8.0\scopedcss\bundle\Mission.api.styles.css
+C:\Users\Asus\source\repos\Mission\Mission.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Asus\source\repos\Mission\Mission.Api\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Asus\source\repos\Mission\Mission.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Asus\source\repos\Mission\Mission.Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Asus\source\repos\Mission\Mission.Api\obj\Debug\net8.0\Mission..D6853138.Up2Date
+C:\Users\Asus\source\repos\Mission\Mission.Api\obj\Debug\net8.0\Mission.api.dll
+C:\Users\Asus\source\repos\Mission\Mission.Api\obj\Debug\net8.0\refint\Mission.api.dll
+C:\Users\Asus\source\repos\Mission\Mission.Api\obj\Debug\net8.0\Mission.api.pdb
+C:\Users\Asus\source\repos\Mission\Mission.Api\obj\Debug\net8.0\Mission.api.genruntimeconfig.cache
+C:\Users\Asus\source\repos\Mission\Mission.Api\obj\Debug\net8.0\ref\Mission.api.dll
+C:\Users\Asus\source\repos\Mission\Mission.api\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Asus\source\repos\Mission\Mission.api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Asus\source\repos\Mission\Mission.api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Asus\source\repos\Mission\Mission.api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Asus\source\repos\Mission\Mission.api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Asus\source\repos\Mission\Mission.api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Asus\source\repos\Mission\Mission.api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Asus\source\repos\Mission\Mission.api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Asus\source\repos\Mission\Mission.api\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Asus\source\repos\Mission\Mission.api\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Asus\source\repos\Mission\Mission.api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Asus\source\repos\Mission\Mission.api\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Asus\source\repos\Mission\Mission.api\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Asus\source\repos\Mission\Mission.api\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Asus\source\repos\Mission\Mission.api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Asus\source\repos\Mission\Mission.api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\source\repos\Mission\Mission.api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\source\repos\Mission\Mission.api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\source\repos\Mission\Mission.api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\source\repos\Mission\Mission.api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\source\repos\Mission\Mission.api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\source\repos\Mission\Mission.api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\source\repos\Mission\Mission.api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\source\repos\Mission\Mission.api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\source\repos\Mission\Mission.api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\source\repos\Mission\Mission.api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\source\repos\Mission\Mission.api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\source\repos\Mission\Mission.api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\source\repos\Mission\Mission.api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\source\repos\Mission\Mission.api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\source\repos\Mission\Mission.api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\source\repos\Mission\Mission.api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\source\repos\Mission\Mission.api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\source\repos\Mission\Mission.api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\source\repos\Mission\Mission.api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\source\repos\Mission\Mission.api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\source\repos\Mission\Mission.api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\source\repos\Mission\Mission.api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\source\repos\Mission\Mission.api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\source\repos\Mission\Mission.api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\source\repos\Mission\Mission.api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\source\repos\Mission\Mission.api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\source\repos\Mission\Mission.api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\source\repos\Mission\Mission.api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\source\repos\Mission\Mission.api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\source\repos\Mission\Mission.api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\source\repos\Mission\Mission.api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\source\repos\Mission\Mission.api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\source\repos\Mission\Mission.api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\source\repos\Mission\Mission.api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\source\repos\Mission\Mission.api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\source\repos\Mission\Mission.api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\source\repos\Mission\Mission.api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\source\repos\Mission\Mission.api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\source\repos\Mission\Mission.api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\source\repos\Mission\Mission.api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\source\repos\Mission\Mission.api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\source\repos\Mission\Mission.api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\source\repos\Mission\Mission.api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\source\repos\Mission\Mission.api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\source\repos\Mission\Mission.api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\source\repos\Mission\Mission.api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\source\repos\Mission\Mission.api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\source\repos\Mission\Mission.api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\source\repos\Mission\Mission.api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\source\repos\Mission\Mission.api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\source\repos\Mission\Mission.api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\source\repos\Mission\Mission.Api\bin\Debug\net8.0\Mission.Repositories.dll
+C:\Users\Asus\source\repos\Mission\Mission.Api\bin\Debug\net8.0\Mission.Services.dll
+C:\Users\Asus\source\repos\Mission\Mission.Api\bin\Debug\net8.0\Mission.Services.pdb
+C:\Users\Asus\source\repos\Mission\Mission.Api\bin\Debug\net8.0\Mission.Repositories.pdb
+C:\Users\Asus\source\repos\Mission\Mission.api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\appsettings.Development.json
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\appsettings.json
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\Mission.api.staticwebassets.endpoints.json
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\Mission.api.exe
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\Mission.api.deps.json
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\Mission.api.runtimeconfig.json
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\Mission.api.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\Mission.api.pdb
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\Humanizer.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\Npgsql.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\System.CodeDom.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\Mission.Entities.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\Mission.Repositories.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\Mission.Services.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\Mission.Services.pdb
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\Mission.Entities.pdb
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\bin\Debug\net8.0\Mission.Repositories.pdb
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\obj\Debug\net8.0\Mission.api.csproj.AssemblyReference.cache
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\obj\Debug\net8.0\Mission.api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\obj\Debug\net8.0\Mission.api.AssemblyInfoInputs.cache
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\obj\Debug\net8.0\Mission.api.AssemblyInfo.cs
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\obj\Debug\net8.0\Mission.api.csproj.CoreCompileInputs.cache
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\obj\Debug\net8.0\Mission.api.MvcApplicationPartsAssemblyInfo.cs
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\obj\Debug\net8.0\Mission.api.MvcApplicationPartsAssemblyInfo.cache
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\obj\Debug\net8.0\Mission.api.sourcelink.json
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\obj\Debug\net8.0\scopedcss\bundle\Mission.api.styles.css
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\obj\Debug\net8.0\Mission..D6853138.Up2Date
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\obj\Debug\net8.0\Mission.api.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\obj\Debug\net8.0\refint\Mission.api.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\obj\Debug\net8.0\Mission.api.pdb
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\obj\Debug\net8.0\Mission.api.genruntimeconfig.cache
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\obj\Debug\net8.0\ref\Mission.api.dll
+C:\Rishi\Tatva-soft-Internship\Tatva-soft-Internship\Day 3\Mission\Mission.api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
